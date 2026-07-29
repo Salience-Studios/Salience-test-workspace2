@@ -37,8 +37,8 @@ One stage at a time. Never skip ahead. Every completed stage produces one file i
 Northbang Studio/
 ├── CLAUDE.md       ← read first
 ├── Context.md      ← read second
-├── Systems/        ← one folder per repeatable workflow
-│   └── <System>/<NN_Stage>/{Context.md, References.md, outputs/}
+├── Workflows/      ← one folder per repeatable workflow
+│   └── <Workflow>/<NN_Stage>/{Context.md, References.md, outputs/}
 └── Subjects/       ← one folder per client, project, or period
 ```
 
